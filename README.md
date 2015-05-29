@@ -1,7 +1,6 @@
 # sutra search
 
 ##Overview
-
 Search sutra in Chinese or Tibetan.
 
 
